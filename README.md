@@ -36,9 +36,3 @@ The model uses key vehicle features, including:
 
 ---
 
-## 🚀 How to Run Locally
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/ayushkumar555/Automobile-price-prediction.git](https://github.com/ayushkumar555/Automobile-price-prediction.git)
-   cd Automobile-price-prediction
